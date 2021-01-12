@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Flash.iml" filepath="$PROJECT_DIR$/Flash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flash-master.iml" filepath="$PROJECT_DIR$/.idea/modules/flash-master.iml" group="flash-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flash-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flash-master-app.iml" group="flash-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flashlib/flash-master-flashlib.iml" filepath="$PROJECT_DIR$/.idea/modules/flashlib/flash-master-flashlib.iml" group="flash-master/flashlib" />
+      <module fileurl="file://$PROJECT_DIR$/flashlib/flashlib.iml" filepath="$PROJECT_DIR$/flashlib/flashlib.iml" />
+    </modules>
+  </component>
+</project>
